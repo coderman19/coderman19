@@ -11,8 +11,10 @@
 
 ### Connect with me: 
 
-[<img align="left" alt="" width="22" src="https://my-portfolio-vert-alpha.vercel.app/">][website]
-[<img align="left" alt="" width="22" src="https://my-portfolio-vert-alpha.vercel.app/">][youtube]
+[<img align="left" alt="mysite" width="22" src="https://cdn4.iconfinder.com/data/icons/tabler-vol-2/24/brand-vercel-256.png">][website]
+[<img align="left" alt="youtube" width="22" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-256.png">][youtube]
+[<img align="left" alt="telegram" width="22" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png">][telegram]
+[<img align="left" alt="vk" width="22" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/vkontakte-256.png">][vk]
 
 <br />
 
@@ -43,6 +45,8 @@
 
 [website]: https://my-portfolio-vert-alpha.vercel.app/
 [youtube]: https://www.youtube.com/user/MrGreenman02
+[telegram]: https://web.telegram.org/
+[vk]: https://vk.com/id287574883
 <!--
 **coderman19/coderman19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

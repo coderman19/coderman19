@@ -18,7 +18,7 @@
 
 <br />
 
-#### Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Вьетнам. Ханой. Воскресное служение в католическом храме.](https://www.youtube.com/watch?v=p2bLS6vSGDA)
 - [Вьетнам. Ханой. Продавец кокосов.](https://www.youtube.com/watch?v=0aaG5SyVUuc)
@@ -27,7 +27,7 @@
 - [дружная семейка](https://www.youtube.com/watch?v=vg4AQMYppUo)
 <!-- BLOG-POST-LIST:END -->
 <br />
-#### My Channel Youtube:
+### My Channel Youtube:
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 

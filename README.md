@@ -18,10 +18,17 @@
 #### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
+<br />
 #### My Channel Youtube:
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
+
+<br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderman19)
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderman19)
 
 ### Tools and Languages
 

@@ -41,12 +41,20 @@
 
 ### Tools and Languages
 
+[<img align="left" alt="html" width="22" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png">][html]
+[<img align="left" alt="scss" width="22" src="https://cdn4.iconfinder.com/data/icons/file-formats-3/100/sass_file_format_scss_css-128.png">][scss]
+[<img align="left" alt="js" width="22" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png">][js]
+[<img align="left" alt="React" width="22" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-256.png">][React]
+
+
 <br />
 
 [website]: https://my-portfolio-vert-alpha.vercel.app/
 [youtube]: https://www.youtube.com/user/MrGreenman02
 [telegram]: https://web.telegram.org/
 [vk]: https://vk.com/id287574883
+
+
 
 <!--
 **coderman19/coderman19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

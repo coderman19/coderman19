@@ -7,8 +7,6 @@
 - 👯 I’m looking to collaborate on React
 - 😄 I like read books
 
-
-
 ### Connect with me: 
 
 [<img align="left" alt="mysite" width="22" src="https://cdn4.iconfinder.com/data/icons/tabler-vol-2/24/brand-vercel-256.png">][website]
@@ -27,19 +25,21 @@
 - [дружная семейка](https://www.youtube.com/watch?v=vg4AQMYppUo)
 <!-- BLOG-POST-LIST:END -->
 <br />
-### My Channel Youtube:
+
+### My Youtube:
+
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
 <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderman19)
+
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderman19)
 
 ### Tools and Languages
-
 
 <br />
 
@@ -47,6 +47,7 @@
 [youtube]: https://www.youtube.com/user/MrGreenman02
 [telegram]: https://web.telegram.org/
 [vk]: https://vk.com/id287574883
+
 <!--
 **coderman19/coderman19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -16,13 +16,8 @@
 
 <br />
 
-<!-- ### Blog posts -->
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
-<!-- - [Вьетнам. Ханой. Воскресное служение в католическом храме.](https://www.youtube.com/watch?v=p2bLS6vSGDA)
-- [Вьетнам. Ханой. Продавец кокосов.](https://www.youtube.com/watch?v=0aaG5SyVUuc)
-- [Вьетнам. Ханой. Автовокзал.](https://www.youtube.com/watch?v=mffELdfy5qM)
-- [Вьетнам. Ханой. Выставка открытие.](https://www.youtube.com/watch?v=0UDaAdjm6qU)
-- [дружная семейка](https://www.youtube.com/watch?v=vg4AQMYppUo) -->
 <!-- BLOG-POST-LIST:END -->
 <br />
 
@@ -45,10 +40,10 @@
 
 ### Tools and Languages
 
-[<img align="left" alt="html" width="22" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png">]
-[<img align="left" alt="scss" width="22" src="https://cdn4.iconfinder.com/data/icons/file-formats-3/100/sass_file_format_scss_css-128.png">]
-[<img align="left" alt="js" width="22" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png">]
-[<img align="left" alt="React" width="22" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-256.png">]
+<img align="left" alt="html" width="22" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png">
+<img align="left" alt="scss" width="22" src="https://cdn4.iconfinder.com/data/icons/file-formats-3/100/sass_file_format_scss_css-128.png">
+<img align="left" alt="js" width="22" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png">
+<img align="left" alt="React" width="22" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-256.png">
 
 
 <br />

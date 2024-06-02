@@ -23,11 +23,11 @@
 
 ### My Videos:
 <!-- YOUTUBE:START -->
+- [Дорогие Россияне!](https://www.youtube.com/watch?v=KJzspM4IEDk)
 - [Владивосток  Жемчужина Дальнего Востока](https://www.youtube.com/watch?v=mtlrBr77kG0)
 - [Вьетнам. Ханой. Воскресное служение в католическом храме.](https://www.youtube.com/watch?v=p2bLS6vSGDA)
 - [Вьетнам. Ханой. Продавец кокосов.](https://www.youtube.com/watch?v=0aaG5SyVUuc)
 - [Вьетнам. Ханой. Автовокзал.](https://www.youtube.com/watch?v=mffELdfy5qM)
-- [Вьетнам. Ханой. Выставка открытие.](https://www.youtube.com/watch?v=0UDaAdjm6qU)
 <!-- YOUTUBE:END -->
 
 <br />
